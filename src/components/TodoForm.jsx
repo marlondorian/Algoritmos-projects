@@ -23,7 +23,7 @@ const TodoForm = (addTodo) => {
             
             
             />
-            <button>Agregar</button>
+            <button type="submit" className="todo-btn" >Agregar</button>
         </form>
     )
 
